@@ -1,0 +1,53 @@
+.carousel-container{
+    width: 95%;
+    align-self: center;
+    padding: 20px 0;
+}
+.technitian-card{
+    margin: 0 20px;
+    min-width: 200px;
+    box-shadow: 1px 5px 10px rgba(0,0,0,0.3);
+}
+.inner-technitian-top{
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    padding: 10px 20px;
+}
+.techincian-image{
+    width: 80px;
+}
+.technician-name{
+    font-size: 20px;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #32325D;
+}
+.inner-technitian-bottom{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+}
+.techintian-props{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.show-more-p{
+    align-self: flex-end;
+    color: rgb(134, 61, 243);
+    cursor: pointer;
+}
+.props-count{
+    font-size: 20px;
+    color: #32325D;
+    font-weight: bold;
+    margin: 0;
+}
+.props-name{
+    margin-top: 10px;
+    color: #32325D;
+}

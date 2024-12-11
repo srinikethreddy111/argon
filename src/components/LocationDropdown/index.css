@@ -1,0 +1,8 @@
+.location-dropdown{
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
